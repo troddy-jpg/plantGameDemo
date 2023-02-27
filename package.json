@@ -1,0 +1,23 @@
+{
+  "name": "plantgamedemo",
+  "version": "1.0.0",
+  "description": "Demo of my plant game",
+  "main": "p5.js",
+  "scripts": {
+    "test": "npmtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troddy-jpg/plantGameDemo.git"
+  },
+  "author": "Trevor Roddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troddy-jpg/plantGameDemo/issues"
+  },
+  "homepage": "https://github.com/troddy-jpg/plantGameDemo#readme",
+  "dependencies": {
+    "p5": "^1.6.0",
+    "serve": "^14.2.0"
+  }
+}
