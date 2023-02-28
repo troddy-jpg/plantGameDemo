@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/troddy-jpg/plantGameDemo#readme",
   "dependencies": {
+    "deepai": "^1.0.21",
     "p5": "^1.6.0",
     "serve": "^14.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
   }
 }
